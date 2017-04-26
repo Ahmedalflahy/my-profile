@@ -1,0 +1,222 @@
+body {
+	/*background-color: #352f33;*/
+	margin:0;
+}
+#container {
+
+	padding:1% 5% 1% 5%; 
+	background-color: #352f33;
+	margin-bottom:-16px;
+}
+#logo p {
+	color:white;
+	font-size: 3em;
+	line-height: 36%;
+	font-family: 'Righteous', cursive;
+}
+#logo span {
+	font-size: 0.35em;
+}
+#navId ul li.current  {
+	background-color: #cf5c30;
+
+}
+#navId {
+	padding-left: 7%;
+}
+#navId ul li {
+	float: left;
+	float: left;
+	display: inline;
+	padding: 2% 4% 2% 4%;
+	list-style: none;
+	background-color: #a2a19f;
+	font-size: 1.5em;
+	border: 1px solid #bbbbbb;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+#discription {
+	clear:both;
+	padding-top:3%;
+}
+#discription p {
+	color:#cf5c30;
+	font-size: 2.5em;
+	font-family: 'Alfa Slab One', cursive;
+
+}
+#discription span {
+	color:#544e52;
+}
+#navId ul li a {
+	text-decoration: none;
+}
+#navId ul li a:link {
+	color:black;
+}
+#navId ul li a:visited {
+	color:black;
+}
+#content {
+	width:100%;
+	background-color: #ccc7cb;
+	margin-top:0;
+}
+#boxes {
+	margin-top: 40px;
+	padding-left:15%; 
+}
+#boxes .box {
+	float:left;
+	text-align: left;
+	width:22%;
+	padding: 10px;
+	border-left: 1px dotted; 
+}
+#boxes .box p {
+	margin-bottom: -5px;
+	line-height: 70%;
+	color:  #cf5c30;
+	font-size: 2em;
+	font-family: 'Alfa Slab One', cursive;
+}
+
+#boxes .box span {
+	color: #352f33;
+	font-size: 0.7em;
+
+}
+#boxes .box #html , #boxes .box #css , #boxes .box #js , #boxes .box #ruby{
+	color: #352f33;
+	font-size: 15px;
+	font-family: 'Abel', sans-serif;
+	line-height: 90%;
+	text-align: justify;
+}
+/********************************************/
+#aboutme {
+	clear:both;
+	background-color: #dddbdc;
+}
+#boxes1 {
+	margin-top: 40px;
+	padding-left:5%; 
+}
+#boxes1 .box1 {
+	float:left;
+	text-align: left;
+	width:31%;
+	padding: 10px;
+	margin-bottom: 2%;
+	/*border-left: 1px dotted; */
+}
+#boxes1 .box1 p {
+	margin-bottom: -5px;
+	line-height: 80%;
+	color:  #352f33;
+	font-size: 1.5em;
+	font-family: 'Abel', sans-serif;
+	text-align: justify;
+}
+#boxes1 .box1 span {
+	color: #352f33;
+	font-size: 0.7em;
+
+}
+#info {
+	padding-right: 5%;
+	color:#cf5c30;
+}
+#ahmed {
+	/*border-radius: 10%;*/
+	border: 2px solid #352f33;
+	width: 25%;
+	height:25%;
+}
+#setImage {
+	padding: 7% 0 1% 42%
+}
+#project {
+	padding: 2% 20% 2% 17%;
+	background-color: #cf5c30;
+	font-size: 20px; 
+}
+#repo {
+	margin: 3% 0 0 25%;
+}
+#result1{
+	text-align: center;
+	background-color: #a2a19f;
+	padding: 20px;
+	width: 40%;
+	margin-bottom: -32px;
+	margin-left:  25%;
+	-webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+	-moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+	box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+
+}
+#video {
+	margin-left:5%;
+
+}
+#others {
+	background-color: #a2a19f;
+	margin: 2% 1% 1% 5%;
+	width:75%;
+	/*padding-top:1%;*/
+
+}
+#others a {
+	text-decoration: none;
+	padding: 1% 1% 1.3% 1.3%;
+	border-bottom: 1px dotted;
+
+}
+#facebook{
+	float: right;
+    margin-top: -4%;
+    padding-right: 16%;
+/*    color: white;*/
+color: #365899;
+}
+#github{
+	float: right;
+	margin-top: -4%;
+    padding-right: 11%;
+    color: white;
+}
+#learn{
+	float: right;
+	width: 7%;
+	margin-top: -4%;
+    padding-right: 3%;
+}
+
+footer  {
+	clear:both;
+	background-color: #352f33;
+	padding: 0.5% 0 1% 8%;
+	margin-top: 2%;
+
+}
+footer p {
+	color:white;
+	font-size: 1.5em;
+	font-family: 'Righteous', cursive;
+}
+footer  span {
+	font-size:0.5em;
+	font-family: 'Abel', sans-serif;
+}
+.Read{
+	color: black;
+	text-decoration: none;
+}
+#linkOfProject{
+	padding: 1% 20% 2% 17%;
+	background-color: #cf5c30;
+	font-size: 20px; 
+	text-decoration: none;
+	color: black;
+}
